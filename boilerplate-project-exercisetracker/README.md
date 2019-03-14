@@ -11,3 +11,6 @@
 5. I can retrieve part of the log of any user by also passing along optional parameters of from & to or limit. (Date format yyyy-mm-dd, limit = int)
 
 #### You will need to pass your own process.env.MLAB_URI to the .env file
+
+### Go here to test user stories:
+* https://first-sundial.glitch.me
